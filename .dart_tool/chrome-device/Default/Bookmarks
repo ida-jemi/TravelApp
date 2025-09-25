@@ -1,0 +1,84 @@
+{
+   "checksum": "2ccdad19359e2ab82819cc51e8d2c41c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13403179996513189",
+            "date_last_used": "0",
+            "guid": "1e611ae1-00ea-4a27-b853-fc2e77e0c9ee",
+            "id": "13",
+            "name": "Lenovo Support",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13403179996512940",
+            "date_last_used": "0",
+            "guid": "01d2adcb-23c8-4def-adf9-8fc2bb308335",
+            "id": "12",
+            "name": "Lenovo",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13403179996512284",
+            "date_last_used": "0",
+            "guid": "defb5569-3011-4072-8ef4-58cf160782f3",
+            "id": "11",
+            "name": "McAfee",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         }, {
+            "date_added": "13403179845289493",
+            "date_last_used": "0",
+            "guid": "bb3d36cd-f3f4-4312-88e5-494cdbd46e8c",
+            "id": "8",
+            "name": "Lenovo Support",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13403179845289358",
+            "date_last_used": "0",
+            "guid": "a1def8b7-f93b-4550-8863-a188a8db4931",
+            "id": "7",
+            "name": "Lenovo",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13403179845288943",
+            "date_last_used": "0",
+            "guid": "07459887-bc5a-4409-a4c7-9a3cea734756",
+            "id": "6",
+            "name": "McAfee",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         } ],
+         "date_added": "13403179845011029",
+         "date_last_used": "0",
+         "date_modified": "13403179996513189",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13403179845011029",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13403179845011029",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
